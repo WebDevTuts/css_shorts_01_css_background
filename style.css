@@ -17,6 +17,7 @@ body {
   border: 1px solid #ccc;
   background-repeat: no-repeat;
   background-image: url(media/clovers.jpg);
+  background-position: 50% 50%;
 }
 
 #container p {
