@@ -15,9 +15,9 @@ body {
 	width: 90%;
 	margin: 0 auto; padding-top: 50%;
   border: 1px solid #ccc;
-  background-repeat: repeat;
-  background-image: url(media/clovers.jpg);
-  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-image: url(media/louvre.jpg);
+  background-position: 50% bottom;
   background-size: 350px 172px;
 }
 
