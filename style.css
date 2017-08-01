@@ -18,7 +18,7 @@ body {
   background-repeat: no-repeat;
   background-image: url(media/louvre.jpg);
   background-position: 50% bottom;
-  background-size: 350px 172px;
+  background-size: contain;
 }
 
 #container p {
