@@ -15,7 +15,8 @@ body {
 	width: 90%;
 	margin: 0 auto; padding-top: 50%;
   border: 1px solid #ccc;
-  background: radial-gradient(#68c87a, #0d8bcd 70%);
+  background-repeat: no-repeat;
+  background-image: url(media/clovers.jpg);
 }
 
 #container p {
